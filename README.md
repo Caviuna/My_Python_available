@@ -1,4 +1,4 @@
 # List of code lessons and learning resources
 
-- First condition:
-- List documentation:
+- Examples based on specific studies
+- Study of application of libraries
